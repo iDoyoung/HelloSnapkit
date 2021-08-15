@@ -32,6 +32,7 @@ class ViewController: UIViewController {
             make.bottom.equalTo(self.view.safeArea.bottom)
             make.width.equalTo(self.view)
         }
+        print("Testing commit in XCode")
     }
 
 
